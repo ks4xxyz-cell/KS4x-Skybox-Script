@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ks4xxyz-cell/KS4x-Skybox-Script/refs/heads/main/Source.lua"))()
